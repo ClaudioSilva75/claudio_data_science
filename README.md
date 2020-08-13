@@ -20,6 +20,10 @@ Meu interesse por Data Science foi despertado primeiramento pelo Erick Vieria, a
 * [GitHub](https://bit.ly/2XWtBPJ)
 
 **Links úteis:**
+
+<p align="center">
+  <img src="banner.png" >
+</p>
 * [Power BI na Real](https://bit.ly/33Yptm3)
 * [Data Science Academy](https://bit.ly/2POOwQk)
 * [Curso em Vídeo](https://bit.ly/3kFDISU)
