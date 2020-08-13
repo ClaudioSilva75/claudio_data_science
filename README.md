@@ -22,7 +22,7 @@ Meu interesse por Data Science foi despertado primeiramento pelo Erick Vieria, a
 **Links úteis:**
 
 
-* [img src="Power_BI_na_real.png"](https://bit.ly/33Yptm3)
+* [Power BI na real](https://bit.ly/33Yptm3)
 * [Data Science Academy](https://bit.ly/2POOwQk)
 * [Curso em Vídeo](https://bit.ly/3kFDISU)
 * [Sigmoidal](https://sigmoidal.ai/)
