@@ -14,7 +14,7 @@ Meu interesse por Data Science foi despertado primeiramento pelo Erick Vieria, a
 
 **Aprendiz em:** Python e Power BI.
 
-**Links:**
+**Contatos:**
 * [LinkedIn](https://www.linkedin.com/in/cláudio-silva-7674281a1)
 * [GitHub](https://bit.ly/2XWtBPJ)
 
@@ -27,7 +27,7 @@ Meu interesse por Data Science foi despertado primeiramento pelo Erick Vieria, a
 * [Sigmoidal](https://sigmoidal.ai/)
 
 
-** Testando emojis:
+**Testando emojis:**
 
 Boas iniciativas merecem aplausos :clap:\
 Fatos importantes merecem atenção :eyes: \
