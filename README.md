@@ -12,7 +12,6 @@ Meu repositório de Data Science
 Meu interesse por Data Science foi despertado primeiramento pelo Erick Vieria, através do Curso de Power BI na empresa em que trabalho, logo depois conheci o curso de Power BI da Data Science Academy, em seguida fui incentivado pelo Gustavo Guanabara do Curso em Vídeo e agora estou aprendendo muito com o Carlos Melo da Sigmoidal, participando da Semana Python.
 
 
-
 **Aprendiz em:** Python e Power BI.
 
 **Links:**
@@ -27,6 +26,13 @@ Meu interesse por Data Science foi despertado primeiramento pelo Erick Vieria, a
 * [Curso em Vídeo](https://bit.ly/3kFDISU)
 * [Sigmoidal](https://sigmoidal.ai/)
 
+
+** Testando emojis:
+
+Boas iniciativas merecem aplausos :clap:\
+Fatos importantes merecem atenção :eyes: \
+Momentos difíceis requerem força :muscle: \
+Mensagens bem escritas merecem um like :+1:
 
 
 
